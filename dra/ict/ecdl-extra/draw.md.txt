@@ -1,0 +1,14 @@
+Welcome
+=======
+![](dokuwiki/lib/exe/fetch.php?media=dra:ict:ecdl-extra:draw:databases:draw-freeform-sheep.png) 
+
+Grid, Snap to Grid
+Align, distribute
+flip, rotate
+Shapes, Freeform tool
+
+---
+Grid
+====
+
+[Snap to Grid](http://office.microsoft.com/en-gb/powerpoint-help/turn-the-snap-to-grid-and-snap-to-object-options-on-or-off-HA010355855.aspx) help
